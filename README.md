@@ -16,35 +16,37 @@
 ### Set Up the Environment:
 #### Prepare the development environment with the necessary Python libraries and tools, including BeautifulSoup, Scrapy, Requests, and Pandas for data manipulation.
 ### Week 2: May 20th - May 25th
-Web Scraping Implementation:
-Crawling: Use Scrapy to navigate through the website’s structure, ensuring efficient and comprehensive data collection.
-Parsing: Employ BeautifulSoup to parse the HTML content and extract relevant information.
-Data Storage and Management:
-Store the scraped data in a structured format, such as CSV or a database (e.g., SQLite, MongoDB), ensuring easy access and analysis. Regularly update and maintain the dataset to reflect the latest information from Clutch.co.
-Cross-check the extracted data with source information to ensure accuracy.
-Use validation techniques to clean and standardize the data, removing duplicates and inconsistencies.
+### Web Scraping Implementation:
+#### Crawling: Use Scrapy to navigate through the website’s structure, ensuring efficient and comprehensive data collection.
+#### Parsing: Employ BeautifulSoup to parse the HTML content and extract relevant information.
+### Data Storage and Management:
+#### Store the scraped data in a structured format, such as CSV or a database (e.g., SQLite, MongoDB), ensuring easy access and analysis. Regularly update and maintain the dataset to reflect the latest information from Clutch.co.
+#### Cross-check the extracted data with source information to ensure accuracy.
+#### Use validation techniques to clean and standardize the data, removing duplicates and inconsistencies.
+https://private-user-images.githubusercontent.com/120238486/346002579-e0185a8a-c373-439c-a828-39d8a529294a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAxNzIzMDYsIm5iZiI6MTcyMDE3MjAwNiwicGF0aCI6Ii8xMjAyMzg0ODYvMzQ2MDAyNTc5LWUwMTg1YThhLWMzNzMtNDM5Yy1hODI4LTM5ZDhhNTI5Mjk0YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwNVQwOTMzMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNzA4MThhMmY0NWYzOTM0MjBmYmI4OWVkZjRmM2ZlNzgyZjEzMWU5ZmNmYzYxY2U4YjQ5NjY0YTY0YWUzZjVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.lUju88UZxKtTHGy_L4Llh4-_MXaC8hVs3voJNm_5CWc
 Internship
-Week 3: May 27th - June 1st
-A detailed Google search query was executed to find email addresses of individuals with roles such as CEO, CFO, and HR, specifically in the cyber security field and located in Boston. The search targeted email addresses from domains like gmail.com, hotmail.com, and yahoo.com.
-Using an Email Extraction Tool:
-An email extraction tool or browser extension was utilized to automatically extract email addresses from the search results, identifying a total of 46 email addresses.
-The tool streamlined the data collection process by automatically scanning and extracting relevant email addresses, reducing the need for manual effort and increasing efficiency.
-The extracted email addresses were displayed in a sidebar, with options to copy and export the data in various formats (TXT, CSV), facilitating easy integration into further data analysis or outreach activities.
+## Week 3: May 27th - June 1st
+#### A detailed Google search query was executed to find email addresses of individuals with roles such as CEO, CFO, and HR, specifically in the cyber security field and located in Boston. The search targeted email addresses from domains like gmail.com, hotmail.com, and yahoo.com.
+### Using an Email Extraction Tool:
+#### An email extraction tool or browser extension was utilized to automatically extract email addresses from the search results, identifying a total of 46 email addresses.
+#### The tool streamlined the data collection process by automatically scanning and extracting relevant email addresses, reducing the need for manual effort and increasing efficiency.
+#### The extracted email addresses were displayed in a sidebar, with options to copy and export the data in various formats (TXT, CSV), facilitating easy integration into further data analysis or outreach activities.
+![image](https://github.com/22AIML035JanviPatel/SummerInternship2024/assets/120238050/98377043-9d12-4ec6-9950-676b8a1685d5)
 
-Week 4: June 3rd - June 8th
-The code sets up a connection to a PostgreSQL database using credentials stored in environment variables. These variables are loaded using the dotenv library, ensuring secure handling of sensitive information. The connection string is then used to create an engine for database interactions.
-Data Fetching and Updating Excel Sheet:
-The code includes functions to fetch data from specified tables in the database and update an Excel sheet with this data using the xlwings library. The fetch_data_from_database function retrieves all rows nd column names from the selected table, and update_excel_sheet writes this data into the specified Excel sheet.
-Week 5: June 10th - June 15th
-Uploading Data from Excel to Database:
-Another function, main_u, reads data from an Excel sheet, processes it into a pandas DataFrame, and uploads it to the specified table in the database. This includes converting column names to lowercase and handling potential exceptions with appropriate error messages using the win32api library.
-I have start work on project of AI ChatBot for the company. First company give the individual task for the project.
-Week 6: June 17th - June 22th
-Skill Learned
-Proficiency in using Python libraries like BeautifulSoup and Scrapy for web scraping and extracting data from websites.
-Experience in connecting to and managing databases, including tasks such as uploading and retrieving data using libraries like SQLAlchemy.
-Skills in automating data upload to Excel and loading data from Excel to a database using tools like xlwings.
-Ability to handle and process data efficiently, ensuring accuracy and usability, and automating repetitive tasks to improve workflow efficiency.
-These skills will be valuable for various roles in data science, software development, and database management.
-Conclusion
-Overall, this internship has been a valuable learning experience. I gained practical skills in python development, visualization, and automation using Python. The projects I worked on have provided me with insights into real-world data challenges and solutions. I am grateful for the opportunity to contribute to the team and grow as a Python Developer.
+### Week 4: June 3rd - June 8th
+#### The code sets up a connection to a PostgreSQL database using credentials stored in environment variables. These variables are loaded using the dotenv library, ensuring secure handling of sensitive information. The connection string is then used to create an engine for database interactions.
+### Data Fetching and Updating Excel Sheet:
+#### The code includes functions to fetch data from specified tables in the database and update an Excel sheet with this data using the xlwings library. The fetch_data_from_database function retrieves all rows nd column names from the selected table, and update_excel_sheet writes this data into the specified Excel sheet.
+### Week 5: June 10th - June 15th
+### Uploading Data from Excel to Database:
+#### Another function, main_u, reads data from an Excel sheet, processes it into a pandas DataFrame, and uploads it to the specified table in the database. This includes converting column names to lowercase and handling potential exceptions with appropriate error messages using the win32api library.
+#### I have start work on project of AI ChatBot for the company. First company give the individual task for the project.
+## Week 6: June 17th - June 22th
+## Skill Learned
+#### Proficiency in using Python libraries like BeautifulSoup and Scrapy for web scraping and extracting data from websites.
+#### Experience in connecting to and managing databases, including tasks such as uploading and retrieving data using libraries like SQLAlchemy.
+#### Skills in automating data upload to Excel and loading data from Excel to a database using tools like xlwings.
+#### Ability to handle and process data efficiently, ensuring accuracy and usability, and automating repetitive tasks to improve workflow efficiency.
+#### These skills will be valuable for various roles in data science, software development, and database management.
+### Conclusion
+#### Overall, this internship has been a valuable learning experience. I gained practical skills in python development, visualization, and automation using Python. The projects I worked on have provided me with insights into real-world data challenges and solutions. I am grateful for the opportunity to contribute to the team and grow as a Python Developer.
