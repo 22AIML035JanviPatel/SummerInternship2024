@@ -23,8 +23,7 @@
 #### Store the scraped data in a structured format, such as CSV or a database (e.g., SQLite, MongoDB), ensuring easy access and analysis. Regularly update and maintain the dataset to reflect the latest information from Clutch.co.
 #### Cross-check the extracted data with source information to ensure accuracy.
 #### Use validation techniques to clean and standardize the data, removing duplicates and inconsistencies.
-https://private-user-images.githubusercontent.com/120238486/346002579-e0185a8a-c373-439c-a828-39d8a529294a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAxNzIzMDYsIm5iZiI6MTcyMDE3MjAwNiwicGF0aCI6Ii8xMjAyMzg0ODYvMzQ2MDAyNTc5LWUwMTg1YThhLWMzNzMtNDM5Yy1hODI4LTM5ZDhhNTI5Mjk0YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwNVQwOTMzMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNzA4MThhMmY0NWYzOTM0MjBmYmI4OWVkZjRmM2ZlNzgyZjEzMWU5ZmNmYzYxY2U4YjQ5NjY0YTY0YWUzZjVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.lUju88UZxKtTHGy_L4Llh4-_MXaC8hVs3voJNm_5CWc
-Internship
+![image](https://github.com/22AIML035JanviPatel/SummerInternship2024/assets/120238050/02cb5f98-f8ff-4601-8199-dd50f17e6e35)
 ## Week 3: May 27th - June 1st
 #### A detailed Google search query was executed to find email addresses of individuals with roles such as CEO, CFO, and HR, specifically in the cyber security field and located in Boston. The search targeted email addresses from domains like gmail.com, hotmail.com, and yahoo.com.
 ### Using an Email Extraction Tool:
